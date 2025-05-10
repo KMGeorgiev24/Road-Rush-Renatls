@@ -2,6 +2,7 @@
  
 <p align = "center">
 <img height="300" width="350" src = "Chemistry-and-biology-project/images/logo.png" alt = "logo">
+ <img src="images/logo.JPG" alt = "Road-Rush-Rentals Logo">
 </p>
  
 <br>
@@ -44,14 +45,14 @@ Your mission? Navigate puzzles and road-savvy scenarios to unlock the lost fleet
 You can download our project by using the green "Code" button.
  
 Or by pasting the following code in your CMD:
-git clone https://github.com/VIIvanov24/8-class-project-8grade-html-css-project-8grade---RentACar.git
+git clone https://github.com/SDTanev24/Road-Rush-Renatls.git
 ```
  
 ## ⚙ Website Access
  
 *You can access our website by pasting this link into your browser.*
 ```
-https://github.com/VIIvanov24/8-class-project-8grade-html-css-project-8grade---RentACar.git
+https://github.com/SDTanev24/Road-Rush-Renatls.git
 ```
  
 ## 👨🏻‍💻 Team Members
